@@ -1,6 +1,6 @@
 # PublicInnovation.academy (early planning stage)
 
-## "A Khan Academy for GovTech"
+## "A Khan Academy for Government and Civic Innovation"
 This very early and exploratory initiative is born out of hand-on insight from over a decade in civic tech — this past decade in particular where it’s vital role in our society became obvious. What we’ve seen however is that for both civic tech experts and newcomers to the civic tech family, there’s a dearth of professional development resources and communities.
 
 That’s what the PublicInnovation.academy is designed to fix: inject professionalism, standards, and community into the field to help grow and deepen its impact.
@@ -12,4 +12,6 @@ It’s been said, “In the 21st Century, good governance and good policy are ir
 
 
 ## My Ask
-A bit of patience. A bit of creativity. And a bit of insight: https://govgeek.io/scoping (Short, but very heplful survey)
+A bit of patience. A bit of creativity. And a bit of insight: https://govgeek.io/scoping (Short, but very heplful survey).
+
+@abhinemani
